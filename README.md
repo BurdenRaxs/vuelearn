@@ -1,6 +1,6 @@
-# test1
+# vue实现单页面应用
 
-> A Vue.js project
+>通过完成该应用，能够熟练的运用vue的许多功能，如单页面组件，父子组件通信，路由传参，路由跳转，子路由，条件渲染，axios, iview UI组件库等功能
 
 ## Build Setup
 
